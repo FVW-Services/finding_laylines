@@ -1,0 +1,41 @@
+# This file contains metadata for your plugin. Since 
+# version 2.0 of QGIS this is the proper way to supply 
+# information about a plugin. The old method of 
+# embedding metadata in __init__.py will 
+# is no longer supported since version 2.0.
+
+# This file should be included when you package your plugin.
+# Mandatory items:
+
+[general]
+name=finding_laylines
+qgisMinimumVersion=3.0
+description=This plugin “Finding_ Laylines" is used for creating drain nets (consisting of contour lines and surface flow pathways called LAYLINES that are at right angles to
+each other).
+version=0.1
+author=FALASY Anamelechi
+email=fvw.services@gmail.com
+
+about=This plugin “Finding_ Laylines" is used for creating drain nets (consisting of contour lines and surface flow pathways called LAYLINES that are at right angles to
+each other).
+
+# End of mandatory metadata
+
+# Recommended items:
+
+# Uncomment the following line and add your changelog:
+# changelog=
+
+# Tags are comma separated with spaces allowed
+tags=python, Contour lines, drainage layout, Laylines, LiDAR, boundary extraction, Depression Filling, Surface Flow Pathways, Drain Nets
+
+homepage=https://github.com/FVW-Services/finding_laylines
+tracker=https://github.com/FVW-Services/finding_laylines/issues
+repository=https://github.com/FVW-Services/finding_laylines
+category=Plugins
+icon=icon.png
+# experimental flag
+experimental=True
+
+# deprecated flag (applies to the whole plugin, not just a single version)
+deprecated=False
