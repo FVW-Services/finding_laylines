@@ -10,14 +10,12 @@
 [general]
 name=finding_laylines
 qgisMinimumVersion=3.0
-description=This plugin “Finding_ Laylines" is used for creating drain nets (consisting of contour lines and surface flow pathways called LAYLINES that are at right angles to
-each other).
+description=This plugin creates drain nets (consisting of contour lines and surface flow pathways called LAYLINES that are at right angles to each other).
 version=0.1
 author=FALASY Anamelechi
 email=fvw.services@gmail.com
 
-about=This plugin “Finding_ Laylines" is used for creating drain nets (consisting of contour lines and surface flow pathways called LAYLINES that are at right angles to
-each other).
+about=This plugin creates drain nets (consisting of contour lines and surface flow pathways called LAYLINES that are at right angles to each other).
 
 # End of mandatory metadata
 
